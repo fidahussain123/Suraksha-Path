@@ -18,7 +18,7 @@ In times of crisis, every second counts. सुरक्षाPath (SurakshaPATH
 - ⚛ React 18 with TypeScript
 - 🎨 Tailwind CSS for styling
 - 🗺 React Leaflet for maps
-- 🔄 postgrus sql for state management
+- 🔄 Postgrus sql for database
 - 🎭 Lucide React for icons
 
 ### AI Integration
@@ -44,7 +44,7 @@ In times of crisis, every second counts. सुरक्षाPath (SurakshaPATH
 ### Installation
 
 1. Clone the repository
-\\\`bash
+\\\`
 git clone https://github.com/yourusername/suraksha-path.git
 cd suraksha-path
 \\\`
