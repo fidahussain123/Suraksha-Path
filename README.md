@@ -1,6 +1,9 @@
 # सुरक्षाPath - Disaster Response Platform 🚨
 
+## Deployment 🌐
 
+The platform is deployed on Netlify. You can access it here:
+[सुरक्षाPath Live Platform](https://musical-rolypoly-50cb8c.netlify.app/)
 
 ## Why This Platform? 🎯
 
@@ -92,11 +95,6 @@ We welcome contributions!
 3. Commit your changes (\git commit -m 'Add some AmazingFeature'\)
 4. Push to the branch (\git push origin feature/AmazingFeature\)
 5. Open a Pull Request
-
-## Deployment 🌐
-
-The platform is deployed on Netlify. You can access it here:
-[सुरक्षाPath Live Platform](https://musical-rolypoly-50cb8c.netlify.app/)
 
 ## Support 💪
 
