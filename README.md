@@ -1,6 +1,6 @@
 # सुरक्षाPath - Disaster Response Platform 🚨
 
-![Platform Banner](https://images.unsplash.com/photo-1589218436045-ee320057f443?q=80&w=2000&auto=format&fit=crop)
+
 
 ## Why This Platform? 🎯
 
