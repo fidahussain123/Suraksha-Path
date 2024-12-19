@@ -102,10 +102,6 @@ The platform is deployed on Netlify. You can access it here:
 
 For support, please open an issue in the GitHub repository or contact our team at support@suraksha-path.org
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments 🙏
 
 - Emergency response teams across India
