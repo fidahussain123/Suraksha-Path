@@ -50,12 +50,12 @@ cd suraksha-path
 \\\`
 
 2. Install dependencies
-\\\`bash
+\\\`
 npm install
 \\\`
 
 3. Start the development server
-\\\`bash
+\\\`
 npm run dev
 \\\`
 
@@ -96,7 +96,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ## Deployment 🌐
 
 The platform is deployed on Netlify. You can access it here:
-[सुरक्षाPath Live Platform](https://suraksha-path.netlify.app)
+[सुरक्षाPath Live Platform](https://musical-rolypoly-50cb8c.netlify.app/)
 
 ## Support 💪
 
